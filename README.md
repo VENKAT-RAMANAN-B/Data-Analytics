@@ -1,5 +1,5 @@
 
-# Electric Vehicle Power BI Report:
+# Electric Vehicle Dashboard Using Power BI:
 
 Welcome to the Electric Vehicle Report repository! This repository contains a Power BI report focusing on various aspects of electric vehicles (EVs) such as speed, efficiency, fast charge capabilities, range, cities with EV infrastructure, brand, model, model year, body style, power trains, price, EV type, rapid charge availability, segment, acceleration, and battery pack kWh.
 
