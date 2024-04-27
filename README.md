@@ -68,6 +68,7 @@ Contributions to this repository are welcome! If you have suggestions for improv
 ---
 
 - Press the below icon to display the list of car brands
+  
 ![List_icon](https://github.com/VENKAT-RAMANAN-B/PowerBI/assets/79049009/fc0e8342-815a-4409-b7be-34b6b5437fa4)
 ---
 
@@ -75,6 +76,7 @@ Contributions to this repository are welcome! If you have suggestions for improv
 ---
 
 - Below Buttons serves as a previous page, dashboard and next page navigation buttons
+  
 ![Buttons](https://github.com/VENKAT-RAMANAN-B/PowerBI/assets/79049009/58c288fe-2eb8-4e48-983f-234ca37ff9aa)
 ---
 
